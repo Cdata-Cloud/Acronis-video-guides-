@@ -1,0 +1,306 @@
+{
+  "id": "restore-files",
+  "title": {
+    "he": "שחזור קבצים מגיבוי",
+    "en": "Restoring files from a backup"
+  },
+  "subtitle": {
+    "he": "Acronis Cyber Protect Cloud",
+    "en": "Acronis Cyber Protect Cloud"
+  },
+  "steps": [
+    {
+      "media": {
+        "type": "image",
+        "src": "guides/restore-files/01-login.png"
+      },
+      "caption": {
+        "he": "היכנסו לקונסולה עם שם המשתמש והסיסמה",
+        "en": "Sign in to the console with your username and password"
+      },
+      "narration": {
+        "he": "פתחו את הדפדפן והיכנסו לכתובת הקונסולה שקיבלתם מאיתנו, cloud.acronis.com. הזינו את שם המשתמש והסיסמה ולחצו על Next. שכחתם סיסמה? לחצו על Forgot password, או פנו אלינו.",
+        "en": "Open your browser and go to the console address we sent you, cloud.acronis.com. Enter your username and password, and click Next. Forgot your password? Click Forgot password, or contact us."
+      },
+      "minSec": 5,
+      "highlights": [
+        {
+          "x": 22,
+          "y": 37.5,
+          "w": 59.5,
+          "h": 12.5
+        },
+        {
+          "x": 22,
+          "y": 53.5,
+          "w": 59.5,
+          "h": 12.5
+        }
+      ],
+      "highlightDelaySec": 1.5
+    },
+    {
+      "media": {
+        "type": "image",
+        "src": "guides/restore-files/02-devices.png"
+      },
+      "caption": {
+        "he": "בתפריט הצד, בחרו Devices ואז All devices",
+        "en": "In the side menu, choose Devices, then All devices"
+      },
+      "narration": {
+        "he": "בתפריט הצד, בחרו Devices ואז All devices.",
+        "en": "In the side menu, choose Devices, then All devices."
+      },
+      "minSec": 5,
+      "highlights": [
+        {
+          "x": 4,
+          "y": 45.5,
+          "w": 17,
+          "h": 7
+        }
+      ]
+    },
+    {
+      "media": {
+        "type": "image",
+        "src": "guides/restore-files/02-devices.png"
+      },
+      "caption": {
+        "he": "סמנו את המחשב או השרת שממנו תרצו לשחזר",
+        "en": "Select the computer or server you want to restore from"
+      },
+      "narration": {
+        "he": "סמנו את המחשב או השרת שממנו תרצו לשחזר.",
+        "en": "Select the computer or server you want to restore from."
+      },
+      "minSec": 5,
+      "highlights": [
+        {
+          "x": 21,
+          "y": 32,
+          "w": 62,
+          "h": 6.5
+        }
+      ]
+    },
+    {
+      "media": {
+        "type": "image",
+        "src": "guides/restore-files/02-devices.png"
+      },
+      "caption": {
+        "he": "לחצו על Recovery",
+        "en": "Click Recovery"
+      },
+      "narration": {
+        "he": "בתפריט הפעולות מימין, לחצו על Recovery.",
+        "en": "In the Actions panel on the right, click Recovery."
+      },
+      "minSec": 5,
+      "highlights": [
+        {
+          "x": 83,
+          "y": 34,
+          "w": 12,
+          "h": 8
+        }
+      ]
+    },
+    {
+      "media": {
+        "type": "image",
+        "src": "guides/restore-files/03-backups.png",
+        "zoom": {
+          "x": 52,
+          "y": 55,
+          "scale": 1.15
+        }
+      },
+      "caption": {
+        "he": "בחרו את הגיבוי האחרון שבו הקבצים עוד היו תקינים",
+        "en": "Choose the last backup where the files were still OK"
+      },
+      "narration": {
+        "he": "תופיע רשימה של גיבויים לפי תאריך ושעה. בחרו את הגיבוי האחרון שבו הקבצים עוד היו תקינים. לא בטוחים איזה תאריך? עדיף לבחור גיבוי מעט מוקדם יותר.",
+        "en": "You'll see a list of backups by date and time. Choose the last backup in which the files were still OK. Not sure which date? It's better to pick a slightly earlier backup."
+      },
+      "minSec": 5,
+      "highlights": [
+        {
+          "x": 32,
+          "y": 34.5,
+          "w": 41,
+          "h": 46
+        }
+      ],
+      "highlightDelaySec": 1.5
+    },
+    {
+      "media": {
+        "type": "image",
+        "src": "guides/restore-files/04-recover-menu.png",
+        "zoom": {
+          "x": 20,
+          "y": 62,
+          "scale": 1.5
+        }
+      },
+      "caption": {
+        "he": "גיבוי של מחשב או דיסק: לחצו Recover ואז Files/folders",
+        "en": "Machine or disk backup: click Recover, then Files/folders"
+      },
+      "narration": {
+        "he": "אם זה גיבוי של מחשב שלם או דיסק, לחצו על Recover, ובתפריט שנפתח בחרו Files/folders.",
+        "en": "If it's a backup of an entire machine or disk, click Recover, then choose Files/folders from the menu."
+      },
+      "minSec": 5,
+      "highlights": [
+        {
+          "x": 15.5,
+          "y": 58,
+          "w": 10,
+          "h": 15
+        }
+      ],
+      "highlightDelaySec": 1.2
+    },
+    {
+      "media": {
+        "type": "image",
+        "src": "guides/restore-files/04-recover-menu.png",
+        "zoom": {
+          "x": 63,
+          "y": 60,
+          "scale": 1.5
+        }
+      },
+      "caption": {
+        "he": "גיבוי של קבצים ותיקיות: לחצו Recover files/folders",
+        "en": "File/folder backup: click Recover files/folders"
+      },
+      "narration": {
+        "he": "אם זה גיבוי של קבצים ותיקיות, לחצו ישירות על Recover files/folders.",
+        "en": "If it's a file and folder backup, just click Recover files/folders."
+      },
+      "minSec": 5,
+      "highlights": [
+        {
+          "x": 57.5,
+          "y": 58,
+          "w": 12.5,
+          "h": 5.5
+        }
+      ],
+      "highlightDelaySec": 1.2
+    },
+    {
+      "media": {
+        "type": "image",
+        "src": "guides/restore-files/05-select-files.png"
+      },
+      "caption": {
+        "he": "סמנו את הקבצים והתיקיות שתרצו לשחזר",
+        "en": "Select the files and folders you want to restore"
+      },
+      "narration": {
+        "he": "נווטו לתיקייה הרצויה וסמנו את הקבצים. אפשר גם לחפש לפי שם הקובץ.",
+        "en": "Browse to the folder you need and select the files. You can also search by file name."
+      },
+      "minSec": 5,
+      "highlights": [
+        {
+          "x": 29.5,
+          "y": 44.5,
+          "w": 46,
+          "h": 13.5
+        }
+      ]
+    },
+    {
+      "media": {
+        "type": "image",
+        "src": "guides/restore-files/05-select-files.png"
+      },
+      "caption": {
+        "he": "לחצו Recover לשחזור למחשב, או Download להורדה",
+        "en": "Click Recover to restore to the computer, or Download to download"
+      },
+      "narration": {
+        "he": "לחצו על Recover כדי להחזיר את הקבצים למחשב, או על Download כדי להוריד אותם.",
+        "en": "Click Recover to restore the files to the computer, or Download to download them."
+      },
+      "minSec": 5,
+      "highlights": [
+        {
+          "x": 76,
+          "y": 19,
+          "w": 12.5,
+          "h": 16
+        }
+      ]
+    },
+    {
+      "media": {
+        "type": "image",
+        "src": "guides/restore-files/06-recover-options.png"
+      },
+      "caption": {
+        "he": "בחרו Original location או Custom location",
+        "en": "Choose Original location or Custom location"
+      },
+      "narration": {
+        "he": "בשחזור למחשב, בחרו אם לשחזר למיקום המקורי או לתיקייה אחרת. שחזור לתיקייה אחרת שומר על הגרסה הנוכחית של הקבצים, למקרה שתרצו להשוות.",
+        "en": "When restoring to the computer, choose whether to restore to the original location or to a different folder. Restoring to a different folder keeps the current version of the files, in case you want to compare."
+      },
+      "minSec": 5,
+      "highlights": [
+        {
+          "x": 14,
+          "y": 50,
+          "w": 16,
+          "h": 12
+        }
+      ]
+    },
+    {
+      "media": {
+        "type": "image",
+        "src": "guides/restore-files/06-recover-options.png"
+      },
+      "caption": {
+        "he": "לחצו Start recovery והמתינו לסיום",
+        "en": "Click Start recovery and wait for it to finish"
+      },
+      "narration": {
+        "he": "לחצו על Start recovery והמתינו לסיום.",
+        "en": "Click Start recovery and wait for it to finish."
+      },
+      "minSec": 5,
+      "highlights": [
+        {
+          "x": 14.5,
+          "y": 69,
+          "w": 23,
+          "h": 9.5
+        }
+      ]
+    },
+    {
+      "media": {
+        "type": "image",
+        "src": "guides/restore-files/07-done.png"
+      },
+      "caption": {
+        "he": "פתחו כמה מהקבצים ששוחזרו וודאו שהם תקינים",
+        "en": "Open a few of the restored files and check they're OK"
+      },
+      "narration": {
+        "he": "בסיום, פתחו כמה מהקבצים ששוחזרו וודאו שהם תקינים. אם משהו חסר, חזרו אחורה ונסו נקודת שחזור אחרת.",
+        "en": "When it's done, open a few of the restored files and make sure they're OK. If something is missing, go back and try a different restore point."
+      },
+      "minSec": 5
+    }
+  ]
+}
